@@ -1,4 +1,9 @@
 # TASK2_MYSQL_TRENDS
+Company: CODTECH IT SOLUTIONS PVT. LTD. Name: VISHWAS SONAR Intern ID: CT04DH2299 Domain: SQL Duration: 4 Weeks Mentor: NEELA SANTOSH
+
+Welcome to trends practice project built during my CODTECH Internship. This project demonstrates practical usage of USE WINDOW FUNCTIONS,
+
+SUBQUERIES, AND CTES (COMMON TABLE EXPRESSIONS) FOR ADVANCED DATA ANALYSIS.
 # Health Analysis Project
 
 ## Overview
